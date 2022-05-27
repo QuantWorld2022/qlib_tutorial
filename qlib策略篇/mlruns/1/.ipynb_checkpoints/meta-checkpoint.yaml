@@ -1,0 +1,4 @@
+artifact_location: file:///root/dev/qlib_app/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: gbdt_csi300_test

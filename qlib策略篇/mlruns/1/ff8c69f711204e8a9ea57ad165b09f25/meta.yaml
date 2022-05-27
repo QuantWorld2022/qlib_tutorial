@@ -1,0 +1,15 @@
+artifact_uri: file:///root/dev/qlib_app/mlruns/1/ff8c69f711204e8a9ea57ad165b09f25/artifacts
+end_time: 1653544817051
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ff8c69f711204e8a9ea57ad165b09f25
+run_uuid: ff8c69f711204e8a9ea57ad165b09f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653544748856
+status: 3
+tags: []
+user_id: root
